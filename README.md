@@ -28,10 +28,8 @@ Between rounds, the player can pick from randomly offered upgrade skills (damage
 * **Difficulty Scaling** — Enemy count and stats (speed, health, damage) increase each round.
 * **Upgrade Skills** — Choose from a variety of upgrade skills (ScriptableObjects) after each round:
   * Damage Skill
-  * Double Damage Skill
   * Health Skill
   * Stamina Skill
-  * Dash Skill
 * **UI & Feedback**
   * Crosshair, hit reticle, and damage indicators
   * Player HUD (health, stamina, etc.)
@@ -41,43 +39,32 @@ Between rounds, the player can pick from randomly offered upgrade skills (damage
 
 ## Screenshots
 
-Gameplay screenshots showcasing the game's features. Add your screenshots to the `Screenshots/` folder in the repository root and name them as listed below (or update the paths/links to point at hosted images, e.g. from the itch.io page).
-
-<!-- Replace the file paths below with your actual screenshots, e.g. Screenshots/gameplay.png -->
-
-### First-Person Shooting
-
-![First-Person Shooting](Screenshots/first-person-shooting.png)
-
 ### Homing Missile Enemies
 
-![Homing Missile Enemies](Screenshots/homing-enemies.png)
-
+![Homing Missile Enemies](Enemies.jpg)
+ 
 ### Round System & Difficulty Scaling
 
-![Round System](Screenshots/round-system.png)
+![Round System](RoundSystem.jpg)
 
 ### Upgrade Skills
 
-| Damage Skill | Double Damage Skill |
+| Damage Skill | Stamina Skill | Health Skill |
 |---|---|
-| ![Damage Skill](Screenshots/upgrade-damage.png) | ![Double Damage Skill](Screenshots/upgrade-double-damage.png) |
+| ![Upgrade Skills](Skills.jpg) |
 
-| Health Skill | Stamina Skill | Dash Skill |
-|---|---|---|
-| ![Health Skill](Screenshots/upgrade-health.png) | ![Stamina Skill](Screenshots/upgrade-stamina.png) | ![Dash Skill](Screenshots/upgrade-dash.png) |
 
 ### Player HUD & Combat Feedback
 
 | Player HUD | Crosshair & Hit Reticle | Damage Indicators |
 |---|---|---|
-| ![Player HUD](Screenshots/player-hud.png) | ![Crosshair & Hit Reticle](Screenshots/crosshair.png) | ![Damage Indicators](Screenshots/damage-indicator.png) |
+| ![Player HUD](PlayerHUD.jpg) | ![Crosshair & Hit Reticle](HitReticle.jpg) | ![Damage Indicators](DamageIndicator.jpg) |
 
 ### Menus
 
 | Main Menu | Pause Menu | Options | Game Over |
 |---|---|---|---|
-| ![Main Menu](Screenshots/main-menu.png) | ![Pause Menu](Screenshots/pause-menu.png) | ![Options](Screenshots/options.png) | ![Game Over](Screenshots/game-over.png) |
+| ![Main Menu](MainMenu.jpg) | ![Pause Menu](Paused.jpg) | ![Options](Options.jpg) | ![Game Over](GameOver.jpg) |
 
 ## Tech Stack
 
