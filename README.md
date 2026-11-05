@@ -49,9 +49,7 @@ Between rounds, the player can pick from randomly offered upgrade skills (damage
 
 ### Upgrade Skills
 
-| Damage, Stamina & Health Skills |
-|:---:|
-| ![Upgrade Skills](Skills.jpg) |
+![Upgrade Skills](Skills.jpg)
 
 ### Player HUD & Combat Feedback
 
