@@ -42,17 +42,16 @@ Between rounds, the player can pick from randomly offered upgrade skills (damage
 ### Homing Missile Enemies
 
 ![Homing Missile Enemies](Enemies.jpg)
- 
+
 ### Round System & Difficulty Scaling
 
 ![Round System](RoundSystem.jpg)
 
 ### Upgrade Skills
 
-| Damage Skill | Stamina Skill | Health Skill |
-|---|---|
+| Damage, Stamina & Health Skills |
+|:---:|
 | ![Upgrade Skills](Skills.jpg) |
-
 
 ### Player HUD & Combat Feedback
 
